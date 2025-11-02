@@ -53,7 +53,6 @@ Since the dataset includes sensitive attributes (e.g., age, marital status, job 
 - `README.md` – This file  
 
 ---
-## 🏁 Outcome
-The final dataset is fully preprocessed, encoded, scaled, and feature-selected, ready for model training or exploratory analysis.
+
 ## 🏁 Outcome
 The final dataset is fully preprocessed, encoded, scaled, and feature-selected, ready for model training or exploratory analysis.
